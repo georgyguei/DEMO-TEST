@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "biomejs",
+    "clsx",
+    "Kangurus",
+    "Menlo",
+    "Parens",
+    "Segoe",
+    "tailwindcss"
+  ],
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
